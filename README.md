@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Moeed</h1>
 <h3 align="center">A curious deep computer vision student</h3>
 
-- 🔭 I’m currently working on [A TensorFlow cheat sheet](https://github.com/Moeed1mdnzh/TF-Tutorials)
+- 🔭 I’m currently working on [a TensorFlow cheat sheet](https://github.com/Moeed1mdnzh/TF-Tutorials)
 
-- 🌱 I’m currently learning **Advanced TensorFlow**
+- 🌱 I’m currently learning **advanced TensorFlow**
 
-- 💬 Ask me about **Computer vision, image processing, deep and machine learning**
+- 💬 Ask me about **computer vision, image processing, deep and machine learning**
 
 - 📫 How to reach me **ppro78741@gmail.com**
 
-- ⚡ Hobbies **Enjoy working out, learning about high-tech tools**
+- ⚡ My hobbies are **working out, learning about high-tech tools**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
