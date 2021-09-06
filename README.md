@@ -23,5 +23,6 @@
 ##  &#x1f4c8; GitHub Stats
 
 [![Moeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moeed1mdnzh&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moeed1mdnzh&show_icons=true&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
