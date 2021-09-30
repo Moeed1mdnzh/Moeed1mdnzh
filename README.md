@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moeed</h1>
 <h3 align="center">A curious deep computer vision student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moeed1mdnzh&label=Profile%20views&color=0e75b6&style=flat" alt="moeed1mdnzh" /> </p>
-
 - 🔭 I’m currently working on AutoEncoders
 
 - 🌱 I’m currently learning **SQL**
@@ -26,5 +24,7 @@
 ##  &#x1f4c8; GitHub Stats
 
 [![Moeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moeed1mdnzh&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moeed1mdnzh&" alt="moeed1mdnzh" /></p>
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moeed1mdnzh&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
