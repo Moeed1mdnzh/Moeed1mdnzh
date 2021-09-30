@@ -25,7 +25,6 @@
 
 [![Moeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moeed1mdnzh&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moeed1mdnzh&theme=highcontrast" alt="moeed1mdnzh"/> </p>
-</br>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moeed1mdnzh&theme=highcontrast" alt="moeed1mdnzh"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moeed1mdnzh&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
