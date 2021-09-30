@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/14372512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14372512" height="30" width="40" /></a>
 <a href="https://kaggle.com/moeed1mdnzh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="moeed1mdnzh" height="30" width="40" /></a>
-</p><a href="https://medium.com/@ppro78741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ppro78741" height="30" width="40" /></a>
+<a href="https://medium.com/@ppro78741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ppro78741" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,7 +25,7 @@
 
 [![Moeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moeed1mdnzh&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moeed1mdnzh&theme=highcontrast" alt="moeed1mdnzh"/>
-<br/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moeed1mdnzh&theme=highcontrast" alt="moeed1mdnzh"/> </p>
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moeed1mdnzh&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
