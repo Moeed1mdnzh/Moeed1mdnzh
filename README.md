@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Moeed</h1>
 <h3 align="center">A curious deep computer vision student</h3>
 
-- 🔭 I’m currently working on AutoEncoders
+- 🔭 I’m currently working on ![TXtractor](https://github.com/Moeed1mdnzh/TXtractor)
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning OCR
 
 - 💬 Ask me about **computer vision, deep and machine learning**
 
