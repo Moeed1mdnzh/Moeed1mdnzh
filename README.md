@@ -26,4 +26,3 @@
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moeed1mdnzh&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) </p>
 
-![google](www.google.com)
