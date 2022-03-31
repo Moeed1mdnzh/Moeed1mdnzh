@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [TXtractor](https://github.com/Moeed1mdnzh/TXtractor)
 
-- 🌱 I’m currently learning OCR
+- 🌱 I’m currently learning GAN architectures
 
 - 💬 Ask me about **computer vision, deep and machine learning**
 
