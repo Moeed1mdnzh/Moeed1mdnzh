@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Moeed</h1>
 <h3 align="center">A curious deep computer vision student</h3>
 
-- 🔭 I’m currently working on [UStarV1](https://github.com/Moeed1mdnzh/UStar)
+- 🔭 I’m currently working on [NatureNet](https://github.com/Moeed1mdnzh/NatureNet)
 
 - 🌱 I’m currently learning PyTorch
 
