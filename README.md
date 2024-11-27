@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Who-sThere](https://github.com/Moeed1mdnzh/Who-sThere)
 
-- 🌱 I’m currently learning PyTorch
+- 🌱 I’m currently learning LLMs
 
 - 💬 Ask me about **computer vision, deep and machine learning**
 
